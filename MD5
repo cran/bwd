@@ -1,0 +1,13 @@
+301062305b75d9923f20a9eeebec03c7 *DESCRIPTION
+95bfed746d64339cb2c7a32d32a311bc *NAMESPACE
+dab189a03b902f351c1e2785719a779b *R/BackwardStepOne.R
+be02351fa6cc7e59a463e651ddd90004 *R/BackwardStepTwo.R
+ddb444582cb504c685575da5409b7511 *R/bwd.R
+315b27c708122d0ffadd756a4a2b0292 *R/estimateResidual.R
+d01e3cd33444178d98a92957d2c06ab4 *R/estimateSigma.R
+5647cab788532bda86110827c393dd83 *R/get.cutoff.R
+76d57b8889fcf0c3e7ec0e0a9b56d890 *R/plot.bwd.R
+1075c81fadce177fdb60966af6d50aad *man/bwd.Rd
+9d5d711846e5e481fcdb635a92c3dae9 *man/plot.bwd.Rd
+328b7ccb5771d808c55a90b5552cf186 *src/backward.c
+7c22b1b500cab25872924e218f1645f5 *src/registerDynamicSymbol.c
